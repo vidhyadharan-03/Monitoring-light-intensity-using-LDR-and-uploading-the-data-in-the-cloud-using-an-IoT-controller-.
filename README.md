@@ -1,5 +1,5 @@
-### NAME : AMRUTHA RAJSHEKER
-### REG NO : 212222110003
+### NAME : VIDHYADHARAN R
+### REG NO : 212222110053
 
 # EXPERIMENT 4 Monitoring light intensity using LDR and uploading the data in the cloud using an IoT controller
 
